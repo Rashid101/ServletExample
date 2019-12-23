@@ -17,6 +17,7 @@ public class MyStack
 		boolean res = st.empty();
 		System.out.println(res);
 		System.out.println(st.peek());
+		System.out.println("Second commit");
 		
 	}
 }
