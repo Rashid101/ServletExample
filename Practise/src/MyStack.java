@@ -18,6 +18,7 @@ public class MyStack
 		System.out.println(res);
 		System.out.println(st.peek());
 		System.out.println("Second commit");
+		System.out.println("Second commit");
 		
 	}
 }
